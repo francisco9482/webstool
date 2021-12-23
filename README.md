@@ -42,7 +42,7 @@ Las cosas suelen funcionar más rápido con los personajes que verbalmente. Por 
 
 <h2>Mantenga a los clientes actualizados</h2>
 
-Con un sitio web en línea, es más fácil informar a sus clientes sobre servicios, ofertas diarias y descuentos que imprimir folletos. No llegaría al máximo de personas. Pero digitalmente, su sitio web funciona como un folleto o catálogo en línea que llega automáticamente a la audiencia objetivo cuando buscan la compra requerida.
+Con un sitio web en línea, es más fácil informar a sus clientes sobre <a href="https://github.com/francisco9482/tramorred/">servicios</a>, ofertas diarias y descuentos que imprimir folletos. No llegaría al máximo de personas. Pero digitalmente, su sitio web funciona como un folleto o catálogo en línea que llega automáticamente a la audiencia objetivo cuando buscan la compra requerida.
 
 <h2>Compra fácil</h2>
 
